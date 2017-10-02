@@ -232,7 +232,7 @@ const rickAndMorty = [{
             }
         }
     ]
-}, {source: "https://en.wikipedia.org/wiki/Rick_and_Morty"}]
+}, { source: "https://en.wikipedia.org/wiki/Rick_and_Morty" }]
 
 
 
