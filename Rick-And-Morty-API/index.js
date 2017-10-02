@@ -82,17 +82,155 @@ const rickAndMorty = [{
                     }
                 }]
             }
-        }, { two: { 
-            episode: [{ 
-                one: { 
-                    title: "", 
-                    summary: "", 
-                    aired: "", 
-                    postcredits: "" 
-                } 
-            }] 
-        } 
-    }, { three: {} }
+        }, {
+            two: {
+                episode: [{
+                    one: {
+                        title: "A Rickle in Time",
+                        summary: "Continuing from \"Ricksy Business\", Rick, Morty and Summer spend six months repairing the house and screwing around with time frozen. After unfreezing it, the trio ends up in a decaying dimension. They split into separate timelines whenever they are uncertain about something. Rick becomes paranoid, thinking that his duplicates want to kill him, but eventually he calms down. A monster attempts to arrest them because Rick stole the time-freezing crystal. Rick, Morty, and Summer show uncertainty on purpose and split into sixty-four timelines, and they simultaneously beat the same monster. They successfully integrate all the timelines by wearing collars brought by the monster. In one timeline, Rick attempts to sacrifice himself and let Morty live by giving him his collar, but ultimately he survives too. Meanwhile, Beth and Jerry hit a deer, and bring it to an animal hospital. A hunter claims the deer for his own because he shot it before the accident. Beth is able to save the deer's life and release it.",
+                        aired: "July 26, 2015",
+                        postcredits: "The monster and his friend beat up Albert Einstein, mistaking him for Rick. They tell him that he should not be messing with time, but this leads Einstein to the famous mass–energy equivalence equation, E=mc2."
+                    }
+                }, {
+                    two: {
+                        title: "Mortynight Run",
+                        summary: "Rick takes Morty on a trip to teach him how to pilot the flying car. When Rick realizes that Jerry has followed them without being noticed in the back seat, he leaves him in a daycare specifically designed for Jerries from alternate realities. Jerry socializes with other Jerries, some of them left there indefinitely because their Rick and Morty never returned. Rick sells an antimatter gun to Krombopulous Michael, an alien assassin who intends to use it to eliminate Fart, a gaseous being that is held captive by alien authorities. Rick plans to spend the day at the \"Blips & Chitz\" video arcade, but Morty decides to stop the assassin. After Rick and Morty release Fart, they are chased by the authorities. Fart uses telepathic powers to kill the authorities, which also leads to civilian casualties. Eventually, Morty learns that Fart wants to eliminate all carbon-based life forms and kills him using the antimatter gun. Rick and Morty return to pick up their Jerry, but it is left unclear whether they got the right one.",
+                        aired: "August 2, 2015",
+                        postcredits: "A promotional ad for \"Blips & Chitz\" with Rick making an appearance."
+                    }
+                }, {
+                    three: {
+                        title: "Auto Erotic Assimilation",
+                        summary: "Rick attempts to loot a damaged spaceship with Morty and Summer. They find Unity, a female hive mind and Rick's ex-lover. She plans to eventually assimilate the whole universe. Beta 7 is a male hive mind who has a crush on Unity, which she rejects. In a planet completely assimilated by Unity, she and Rick have parties, have sex, and drink and use drugs together. In light of all the revelry, she loses control and the planet is left messy and untended. Summer finds the assimilation unethical, until she and Morty witness some inhabitants regain their identities and start a race war. Eventually, Unity decides to leave Rick for her own good. Meanwhile, Beth and Jerry find a secret underground room with a slug-like monster. The couple has an argument where Jerry makes accusations against Rick and Beth tries to defend her father. The monster reveals that they are both correct in their own ways. Rick attempts to commit suicide but fails because he passes out.",
+                        aired: "August 9, 2015",
+                        postcredits: "A drunken Rick attempts to contact Unity only to be blocked by Beta 7."
+                    }
+                }, {
+                    four: {
+                        title: "Total Rickall",
+                        summary: "Alien parasites plant fake memories in the minds of Rick, Morty, Beth, Jerry and Summer and pretend they are friends and family members. Every time the family reminisces about the past, the aliens reproduce. The family can't distinguish real people from aliens, so eventually they can't even trust each other. To prevent further spread, Rick locks down the house. At first, the only alien present is the fake \"Uncle Steve\"; they are soon joined by other aliens including Cousin Nicky, Sleepy Gary (who poses as Beth's husband and Jerry's lover), the family butler Mr. Beauregard, Frankenstein's Monster, a talking pencil named Pencilvester, Tinkles the Fairy Lamb, etc. Mr. Poopybutthole is an unusual yellow creature who did not appear in any previous episode but appears to be a longtime friend. Eventually, Morty discovers that the parasites can only create positive memories, allowing the Smith family to confirm one another's existence and kill all the aliens. Beth mistakes Mr. Poopybutthole for a parasite and shoots him.",
+                        aired: "August 16, 2015",
+                        postcredits: "Mr. Poopybutthole goes through physical therapy. Beth is devastated."
+                    }
+                }, {
+                    five: {
+                        title: "Get Schwifty",
+                        summary: "A massive alien head (a \"Cromulon\") appears over Earth, demanding to hear an original song, so Rick and Morty improvise \"Get Schwifty\". The whole planet is abducted and forced to participate in a musical talent show, where the losers' planets are obliterated. Morty steals Rick's portal gun and leaves him by himself, but Birdperson persuades him to come back. Ice-T is an ice alien who does not initially care about Earth, but he later changes his mind and saves the planet. Rick, Morty, and the US president win the competition by improvising \"Head Bent Over\". Meanwhile, Jerry, Beth, and Summer enter a religious cult based on an incorrect interpretation of the message from Cromulons. The movement quickly disbands after realizing it was all a musical talent show.",
+                        aired: "August 23, 2015",
+                        postcredits: "Back at Alphabetrium, Ice-T's home planet, his father rewards Ice-T by lifting his exile and restoring his true form, \"Water-T\". The Numbericons attack and Water-T rushes out to battle. This is an action movie promo."
+                    }
+                }, {
+                    six: {
+                        title: "The Ricks Must Be Crazy",
+                        summary: "Rick's flying car won't start, so he investigates the problem. The car's battery contains a miniature universe, from which Rick has been stealing electricity. Inside it, Zeep created a second universe for the same purpose. Rick, Morty and Zeep are left stranded in a third miniature universe, as the pilot commits suicide and destroys his ship. Rick and Zeep constantly fight, except Morty becomes a native chief and forces them to work together to escape. Rick reveals that Morty can turn into a car if needed. Ultimately, Rick and Morty leave the battery, trapping Zeep. Meanwhile, Summer awaits in the flying car. It uses violence to protect her from strangers, while she protests. However, it's effectively pardoned once it prepares a peace treaty, ending the human-spider war that has existed in this alternate reality. As a result, ice cream becomes served with bugs to appeal to spiders.",
+                        aired: "August 30, 2015",
+                        postcredits: "Morty suddenly turns into a car in his class."
+                    }
+                }, {
+                    seven: {
+                        title: "Big Trouble in Little Sanchez",
+                        summary: "Rick becomes \"Tiny Rick\" by transferring his mind to a teenager clone of himself in order to kill a vampire in Morty and Summer's school. Tiny Rick is outgoing and popular, but subconsciously cries for help in song lyrics and drawings. Much to the disdain of her classmates, Summer deliberately gets him expelled by denouncing him as the killer of Coach Feratu, the vampire. Morty and Summer eventually persuade Rick to return to his body. Meanwhile, Jerry and Beth experience couple therapy on an alien planet. Two manifestations of the partner's perceptions of one another are created: Jerry's Beth is embodied as a towering, hostile Xenomorph-like insectoid, and Beth's Jerry is a servile worm. The insectoid Beth goes on a rampage with the help of the worm Jerry, killing several couples and employees. Eventually, Jerry acts in a brave way, causing Beth to envision a strong Jerry, which in turn causes Jerry to envision a goddess-like Beth, who destroys the insectoid monster.",
+                        aired: "September 13, 2015",
+                        postcredits: "The lead vampire rails against the use of names like \"Coach Feratu\" that give away their vampire status."
+                    }
+                }, {
+                    eight: {
+                        title: "Interdimensional Cable 2: Tempting Fate",
+                        summary: "Jerry is treated in an alien hospital after unknowingly ingesting some bacteria stored by Rick, while his family is in the waiting room, watching an assortment of TV channels from alternate realities. Jerry is asked by doctors to donate his penis, to be converted into a replacement heart to save the life of civil rights activist Shrimply Pibbles. Jerry complies, but publicly tries to talk his way out of it nonetheless. This causes Jerry to be hated by the public, but also raises awareness as well as money to buy a synthetic heart for Pibbles. Eventually, Jerry changes his mind and holds the doctors hostage, demanding that they go through with the transplant procedure, but the security stops him.",
+                        aired: "September 20, 2015",
+                        postcredits: "Jerry tries to eat Rick's \"Eyeholes\", an alien cereal that appeared in the interdimensional TV, only for the Eyehole Man to burst through the window and begin relentlessly beating him."
+                    }
+                }, {
+                    nine: {
+                        title: "Look Who's Purging Now",
+                        summary: "Rick and Morty visit another planet and witness \"The Festival\", an annual event where the local populace commits crimes for one night without consequence. Rick compares it to The Purge movies. Morty forces Rick to rescue Arthricia, a young alien girl. She betrays them and steals Rick's gun and spaceship, leaving Rick and Morty to fend for themselves. Rick calls Summer and has her send advanced power armor suits for Rick and Morty's protection. Morty goes on a killing rampage until Rick knocks him out. Rick allows Arthricia to use Morty's suit and helps her to kill the corrupt nobility who implemented the Festival in the first place. The planet's inhabitants decide to create a new society from the ground up, however, rioting breaks out over disagreements about it. One of them suggests keeping the Festival. Morty feels guilty over all the aliens he's killed, but Rick wrongly blames a candy bar that Morty has eaten, thus appeasing him.",
+                        aired: "September 27, 2015",
+                        postcredits: "Beth discovers that Jerry wasted $700 calling Taddi Mason, who charges money just to talk on the phone."
+                    }
+                }, {
+                    ten: {
+                        title: "The Wedding Squanchers",
+                        summary: "Rick and his family attend the wedding of Birdperson and Tammy, whose guest list includes seventeen of the Federation's most wanted — including Rick and Birdperson himself. At the wedding reception, Tammy reveals herself to be a Federation agent and seemingly kills Birdperson. Numerous agents invade the building, starting a battle against the guests. Rick gets his family out of the wedding safely, but they are unable to return home as the Federation would be looking for them there, so Rick and his family decides to live on a very small Earth-like planet. Rick overhears Jerry proposing to turn Rick in and return to Earth, then Rick allows himself to be arrested. His family returns to Earth, which has joined the Federation and is crowded by alien tourists. Jerry is assigned a job by the Federation.",
+                        aired: "October 4, 2015",
+                        postcredits: "Mr. Poopybutthole asks the audience what they think will happen in season 3, and harasses a pizza deliveryman with the same question. He also states that season 3 will come in a year and a half."
+                    }
+                }]
+            }
+        }, {
+            three: {
+                episode: [{
+                    one: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    two: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    three: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    four: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    five: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    six: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    seven: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    eight: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    nine: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }, {
+                    ten: {
+                        title: "",
+                        summary: "",
+                        aired: "",
+                        postcredits: ""
+                    }
+                }]
+            }
+        }
     ]
 }]
 
