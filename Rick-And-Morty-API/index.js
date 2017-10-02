@@ -160,81 +160,81 @@ const rickAndMorty = [{
             three: {
                 episode: [{
                     one: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "The Rickshank Rickdemption",
+                        summary: "Rick is interrogated via a mind-computer link, inside a galactic federal prison. Summer and Morty attempt to rescue him, but they are captured by SEAL Team Ricks, who take them to the Citadel of Ricks and decide to assassinate Rick. Back at the prison, Rick tricks both the federal agents and his aspiring assassins by switching bodies with them. He then teleports the entire Citadel into the federal prison, prompting a massive battle. Amid the confusion, Rick rescues Morty and Summer and uses the Galactic Federation's mainframe to make its currency worthless. The Federation falls into chaos and collapses as a result, with the aliens leaving Earth. Rick, Morty, and Summer return home, where Jerry gives Beth an ultimatum to choose between him and Rick. She chooses Rick. After the new status quo is established, Rick reveals to Morty that his ulterior motive was to become his de facto male influence. This escalates into a nonsensical angry rant that parallels the final scene of season 1 episode 1, but this time it is centered around Rick's desire to find more of the discontinued McDonald's Szechuan sauce, a promotional product for the 1998 film Mulan.",
+                        aired: "April 1, 2017",
+                        postcredits: "Tammy observes Bird Person's resurrection as a cyborg dubbed \"Phoenix Person\"."
                     }
                 }, {
                     two: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "Rickmancing the Stone",
+                        summary: "Rick takes Morty and Summer to a Mad Max-esque version of Earth, where they are chased by a group of scavengers, known as Death Stalkers. Rick notices that the group is carrying a valuable rock of Isotope 322, so he and the kids join them in hope of stealing it. Summer falls in love with the Death Stalkers' leader, while Morty is given the strength of a giant arm, which takes him in search of its killer. Rick leaves and replaces the kids with androids to fool Beth. When he returns, he helps the Death Stalkers use the Isotope to power a more advanced civilization. Summer doesn't like how the change softens the Death Stalkers, and she decides to follow Rick and Morty back home. Before leaving, Rick steals the Isotope. The experience helps the kids overcome their parents' divorce. Summer reconciles with Jerry, and Morty realizes he must live his own life.",
+                        aired: "July 30, 2017",
+                        postcredits: "As Jerry receives his unemployment check, a growling wolf appears and bullies him into handing it over. The wolf eats the check and regurgitates it, thus further ruining Jerry's new life."
                     }
                 }, {
                     three: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "Pickle Rick",
+                        summary: "Rick turns himself into a pickle to get out of attending school-ordered family therapy, but Beth takes Rick's serum which would revert the transformation. Left alone, Rick eventually rolls down into an open sewer drain, where he manages to manipulate the nervous systems of dead roaches and rats to build himself a mobile exoskeleton, with added weapons such as razors and drills. He unwittingly escapes into a foreign government agency. The guards try to kill Rick, under orders from the agency director, but Rick kills them all. In the process, Rick battles and ultimately befriends a prisoner named Jaguar. Rick changes his mind and decides to attend the therapy session, arriving towards the end. Dr. Wong gives her diagnosis, observing that Rick crafts relationships that punish emotions and vulnerability. On their way home, Rick apologizes to Beth for deceiving her and uses the serum to turn human again. Morty and Summer wish to continue seeing Dr. Wong, but Rick and Beth ignore them.",
+                        aired: "August 6, 2017",
+                        postcredits: "Jaguar saves Rick and Morty from being killed in an elaborate piano death machine by a villain named \"Concerto\"."
                     }
                 }, {
                     four: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "Vindicators 3: The Return of Worldender",
+                        summary: "At Morty's insistence, Rick agrees to join the Vindicators, a group of intergalactic superheroes, to fight their arch-nemesis, Worldender. Rick cannot hide his disdain for the superheroes, while Morty is thrilled. The next morning, the Vindicators enter Worldender's base, only to find that the previous night a blackout drunk Rick had killed him and set up a variety of puzzles that the Vindicators must solve to survive. They start arguing and kill one another, while Morty solves all the puzzles, as he knows what Rick had in mind when he put them up. After all puzzles are solved, the only ones left alive are Rick, Morty and Supernova, a member of the Vindicators. Supernova tries to kill Rick and Morty, but before she can do so, the three of them are transported to a party that Rick also set up while blackout drunk, where she gets away.",
+                        aired: "August 13, 2017",
+                        postcredits: "Gearhead tries to use a Vindicators vest to pick up some young girls, but when an alien terrorist attack strikes, he runs away eventually tripping and falling, breaking into pieces."
                     }
                 }, {
                     five: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "The Whirly Dirly Conspiracy",
+                        summary: "To bolster Jerry's self-esteem, Rick takes him on an adventure at Morty's request. They visit an otherworldly resort within an immortality field so Jerry won't be harmed while away. Jerry encounters Risotto Groupon, an alien who blames Rick for his kingdom being usurped. Risotto enlists Jerry in a plot to kill Rick, but Jerry backs out after Rick apologizes for ruining his marriage. Meanwhile, Summer deals with self-esteem issues as well. Her boyfriend, Ethan, leaves her for a larger-breasted girlfriend, and Summer attempts to enlarge her own breasts using one of Rick's devices. Her aim is off, and she grows to freakish proportions. Morty wants to call Rick for assistance, but Beth refuses. Arrogantly trying to prove her own self-worth, Beth repeatedly fails to fix the problem and is tricked into releasing three tiny technical support workers that were trapped inside the machine. Once Morty figures out how the machine works, he restores Summer's size and spitefully uses it to deform Ethan as an act of vengeance.",
+                        aired: "August 20, 2017",
+                        postcredits: "The three tiny workers are enjoying their retirement next to a river. As an extremely deformed Ethan walks by, one of them is snatched by an eagle."
                     }
                 }, {
                     six: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "Rest and Ricklaxation",
+                        summary: "After a six-day outer space adventure that leaves them on the verge of psychological collapse, Rick and Morty decide to spend some time at an alien spa. There, they use a machine that extracts a person's negative personality traits. However, without Rick and Morty knowing, those traits are transposed into toxic physical counterparts, characterized by Rick's arrogance and Morty's self-loathing. On the other hand, the true Rick becomes more considerate, and Morty's confidence soars, which allows him to start dating girls. Toxic Rick uses a moonlight tower to remake the whole Earth in his own image, but the true Rick reverts the situation by merging back with him. Morty avoids merging back with his toxic counterpart and goes on to live a The Wolf of Wall Street type scenario. Rick tracks him down with the help of Jessica, Morty's classmate, and restores order by re-injecting the negative personality traits into him.",
+                        aired: "August 27, 2017",
+                        postcredits: "A tour of the same moonlight tower releases Stacy, one of the girls Morty dated in the episode, who had been inadvertently trapped inside the toxin machine."
                     }
                 }, {
                     seven: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: ["The Ricklantis Mixup", "Tales from the Citadel"],
+                        summary: "As Rick and Morty adventure to Atlantis, the episode shifts focus towards the Ricks and Mortys living at the Citadel. A group of Mortys reminiscent of the protagonists in Stand by Me (film) journey to a portal to have their wishes granted. A rookie cop Rick starts working with an experienced Morty Cop to take down drug dealers. A Rick working at Simple Rick's wafer factory, where the key ingredient comes from said Simple Rick hooked up to a machine to re-experience his best memories, holds Simple Rick hostage after he doesn't get a promotion. An election is held for the new president of the Citadel. Despite being the underdog, the Morty Party candidate manages to secure the presidency thanks to his views on Ricks and Mortys. His former campaign manager fails to assassinate him after discovering that the new president is actually Evil Morty from \"Close Rick-counters of the Rick Kind\".",
+                        aired: "September 10, 2017",
+                        postcredits: "Rick and Morty come back from Atlantis satisfied with their trip. Morty wonders what happened on the Citadel, but Rick tells him it'll likely have no effect on their lives."
                     }
                 }, {
                     eight: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "Morty's Mind Blowers",
+                        summary: "After Morty requests to have a traumatic memory deleted, Rick reveals a room where he has been storing a number of memories he has removed from Morty. However, as it turns out, besides the memories that Morty didn't want to keep from their adventures, the room also contains memories of moments where Rick was made to look foolish and had them forcibly removed. This revelation prompts a fight, during which Rick and Morty have their memories accidentally erased. Morty scours the memories to replace the ones he lost, but is displeased with the truth he finds, and convinces Rick to both kill themselves. Summer enters the room moments before they commit suicide. At this point, it is revealed that Rick has a contingency plan should this happen. Summer, following written instructions, tranquilizes Rick and Morty, restores their memories and drags them to the living room. Rick and Morty wake up on the couch, believing that they slept through an entire \"Interdimensional Cable\" episode.",
+                        aired: "September 17, 2017",
+                        postcredits: "Jerry shows up in Rick's garage and discovers a box containing \"Jerry's Mind Blowers\" where, in a twisted homage to E.T. the Extra-Terrestrial, he discovers he accidentally left an alien the family was trying to help to die in his car."
                     }
                 }, {
                     nine: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "The ABC's of Beth",
+                        summary: "Rick and Beth enter Froopyland, a fantasy world created by Rick for young Beth. Their goal is to recover Tommy, Beth's childhood friend who's been trapped in Froopyland, and prevent the execution of his father, who is being falsely accused of eating him. Tommy, who has survived all these years by resorting to bestiality, incest and cannibalism, refuses to return to the real world. Rick and Beth manage to save his father's life by creating a clone of Tommy. Back at home, Beth is presented with the option of having a replacement clone of her created, so that she will be free to travel the world. Meanwhile, Jerry dates an alien hunter named Kiara, to Morty and Summer's dismay. When he decides to get out of the relationship, Kiara is enraged and tries to kill the kids, who she holds responsible. The situation is resolved following the revelation that Kiara was using Jerry to get over her previous boyfriend, much like Jerry was doing with her.",
+                        aired: "September 24, 2017",
+                        postcredits: "Jerry's answering machine plays messages warning him that Kiara's boyfriend is coming to kill him, and Rick saying that he has killed Kiara's boyfriend, but also had sex with her."
                     }
                 }, {
                     ten: {
-                        title: "",
-                        summary: "",
-                        aired: "",
-                        postcredits: ""
+                        title: "The Rickchurian Mortydate",
+                        summary: "The President calls on Rick and Morty to defeat an alien monster in the tunnels underneath the White House - which they quickly manage to do with little effort. They become annoyed that the President calls on them like \"Ghostbusters\" without any gratitude, so they go back home to play Minecraft. The President then calls Rick on the phone, and they get into an argument about who exactly works for who: Rick says that he doesn't \"work\" for the President, he saves the world from alien dangers because he feels like it, but the President counters that the multiple times Rick has saved the world are the only reason he hasn't been arrested long ago for possessing incredibly dangerous advanced technologies. Their argument escalates to Rick claiming the U.S. government couldn't take him down even if it tried, leading to a battle of egos. Rick one-ups the President by not only evading his security forces, but solving the Arab-Israeli conflict behind his back. This culminates in a running battle in the White House between Rick and the President's security forces.\n Meanwhile, continuing from the preceding episode, Beth has newfound happiness that she chose to stay with her family instead of leaving and having a clone take her place. Summer enjoys a shopping trip with her so much that she says it's like her mother is a different person - causing Beth to start worrying that she actually is a clone made by Rick, simply programmed to think she chose to stay. When she calls Rick and asks if she's a clone he says she isn't, though she realizes he'd say the same thing if she was a clone to keep her from knowing the truth. She falsely claims she's certain she isn't a clone, but Rick in turn points out that she's lying, knowing that if she is a clone, he would terminate her for becoming self-aware - which causes her to panic and flee. Eventually Beth rushes to Jerry's apartment and pleads with him to help prove she's real. They kiss and he's convinced she's real, and she realizes how lucky she is to have someone love her even if he is as dumb and ordinary as Jerry. The entire family reunites to hide from Rick in a shack in the woods, but he tracks them down. Beth thinks he's come to kill her for being a clone, but she doesn't care because it means she's a reject like the rest of her family and they love each other. Rick again insists that she is not a clone - he actually came to kill Jerry so Beth would come back. Beth confronts Rick that she won't leave Jerry again, and challenges that if Rick doesn't agree he can just flee to another parallel universe again. Rick cannot bring himself to leave because he's become emotionally attached to his family, so he submits. Jerry moves back in to their house, and Rick agrees to respect him more.",
+                        aired: "October 1, 2017",
+                        postcredits: "A follow-up to the post-credit scene from the Season 2 finale, Mr. Poopybutthole returns to apologize for not appearing in Season 3 itself, but since we last saw him he's married and has a baby son. He challenges the viewers that he actually did something with his life since Season 2 ended, and wonders if they just wasted their lives all this time. He ends by saying that it will be a long wait until Season 4."
                     }
                 }]
             }
         }
     ]
-}]
+}, {source: "https://en.wikipedia.org/wiki/Rick_and_Morty"}]
 
 
 
 
-console.log(rickAndMorty[1].seasons[0].one.episode[2].three.summary)
+console.log(rickAndMorty[1].seasons[2].three.episode[9].ten.summary)
